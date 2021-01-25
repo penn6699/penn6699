@@ -1,4 +1,4 @@
-### Hi there 👋
+### 欢迎来到智瓶子的 GitHub  👋
 
 <!--
 **penn6699/penn6699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=penn6699&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
