@@ -4,24 +4,7 @@
     <a href="https://github.com/penn6699">
         <img src="https://img.shields.io/github/stars/penn6699?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
-    <a href="https://juejin.cn/user/325111170756279">
-        <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E4%BC%98%E7%A7%80%E4%BD%9C%E8%80%85-%231e80ff" />
-    </a>
-    <a href="https://segmentfault.com/u/jiejiaoxiaolin/articles">
-        <img src="https://img.shields.io/badge/%E6%80%9D%E5%90%A6-Top%20Writer-%2300965e" />
-    </a>
-    <a href="https://www.zhihu.com/people/wang-lin-49-43-65">
-        <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%B0%8F%E9%80%8F%E6%98%8E-%23056de8" />
-    </a>
-    <a href="https://blog.csdn.net/sinat_33488770?type=blog">
-        <img src="https://img.shields.io/badge/CSDN-%E6%B2%A1%E6%8E%92%E5%90%8D-%23fc5531" />
-    </a>
-    <a href="https://bbs.huaweicloud.com/community/usersnew/id_1666353952883753">
-        <img src="https://img.shields.io/badge/%E5%8D%8E%E4%B8%BA%E4%BA%91-%E4%BA%91%E4%BA%AB%E4%B8%93%E5%AE%B6-%23c7000b" />
-    </a>
-    <a href="https://developer.aliyun.com/profile/expert/b4yftxgi3elg4">
-        <img src="https://img.shields.io/badge/%E9%98%BF%E9%87%8C%E4%BA%91-%E4%B8%93%E5%AE%B6%E5%8D%9A%E4%B8%BB-%23ff6a00" />
-    </a>
+    
 </p>
 
 <div align="center">
