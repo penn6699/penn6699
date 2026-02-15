@@ -1,11 +1,11 @@
 <h1 align="center">Hello，我是智瓶子 👋</h1>
 
-<p>
+<div align="center">
     <a href="https://github.com/penn6699">
         <img src="https://img.shields.io/github/stars/penn6699?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
     
-</p>
+</div>
 
 <div align="center">
     <a href="https://github.com/penn6699/github-stats#gh-dark-mode-only">
