@@ -7,5 +7,5 @@
     
 </div>
 
-![overview](https://raw.githubusercontent.com/penn6699/github-stats/main/generated/overview.svg)
-![langs](https://raw.githubusercontent.com/penn6699/github-stats/main/generated/languages.svg)
+![stats](https://github-readme-stats.vercel.app/api?username=penn6699&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penn6699&layout=compact&theme=tokyonight&hide_border=true)
