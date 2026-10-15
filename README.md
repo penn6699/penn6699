@@ -1,4 +1,4 @@
-<h1 align="center">Hello，我是码上无界 👋</h1>
+<h1 align="center">码上无界 👋</h1>
 
 <div align="center">
     <a href="https://github.com/penn6699">
