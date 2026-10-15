@@ -7,9 +7,5 @@
     
 </div>
 
-<div align="center">
-    <a href="https://github.com/penn6699/github-stats#gh-light-mode-only">
-        <img src="https://github.com/penn6699/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-        <img src="https://github.com/penn6699/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-    </a>
-</div>
+![overview](https://raw.githubusercontent.com/penn6699/github-stats/main/generated/overview.svg)
+![langs](https://raw.githubusercontent.com/penn6699/github-stats/main/generated/languages.svg)
