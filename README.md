@@ -7,5 +7,13 @@
     
 </div>
 
-![stats](https://github-readme-stats.vercel.app/api?username=penn6699&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penn6699&layout=compact&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=penn6699&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penn6699&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
