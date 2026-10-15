@@ -9,10 +9,10 @@
 
 <table>
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=penn6699&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penn6699&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
